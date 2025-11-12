@@ -1,0 +1,10 @@
+Analisa Soal 1:
+- Citra negatif: nilai keabuan dibalik (area gelap menjadi terang dan sebaliknya).
+- Citra logaritmik: bagian gelap menjadi lebih jelas, sedangkan bagian terang tetap.
+- Transformasi logaritmik berguna untuk citra dengan pencahayaan rendah.
+
+Analisa Soal 2:
+- LPF: gambar tampak buram karena noise direduksi.
+- HPF: menonjolkan tepi atau kontur.
+- BPF: membuat gambar lebih tajam.
+- Rata-rata piksel LPF lebih kecil dibanding HPF dan BPF.
